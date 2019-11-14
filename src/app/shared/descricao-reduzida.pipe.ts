@@ -12,5 +12,4 @@ export class DescricaoReduzida implements PipeTransform {
 
        return texto;
     }
-
 }
